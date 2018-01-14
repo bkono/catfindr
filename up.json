@@ -1,0 +1,11 @@
+{
+  "name": "catfindr",
+  "lambda": {
+    "memory": 1536
+  },
+  "stages": {
+    "development": {
+      "domain": "catfindr.kono.sh"
+    }
+  }
+}
